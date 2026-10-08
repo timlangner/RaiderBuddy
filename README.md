@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="https://raiderbuddy.com"><img src="assets/icon.png" alt="" width="88"></a>
-</p>
-
-<h1 align="center">RaiderBuddy</h1>
-
-<p align="center">The free companion for ARC Raiders, on the web and over your game.</p>
+<a href="https://raiderbuddy.com">
+  <img src="assets/banner.webp" alt="RaiderBuddy: know what's live, raid smarter. The free companion for ARC Raiders." width="100%">
+</a>
 
 <p align="center">
   <a href="https://raiderbuddy.com"><img src="https://img.shields.io/badge/Open_the_web_app-FF8A3D?style=for-the-badge&logoColor=white" alt="Open the web app"></a>
