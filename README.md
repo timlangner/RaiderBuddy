@@ -17,10 +17,6 @@
   Free in your browser, no account needed. On Windows it also sits on top of your game.
 </p>
 
-<p align="center">
-  <a href="https://raiderbuddy.com"><img src="assets/tour.webp" alt="A tour of RaiderBuddy: Events, Maps, My Raider, Skill tree, ARC, Stash, Items and Quests" width="100%"></a>
-</p>
-
 ## Why raiders use it
 
 - **Never miss the drop.** See which map conditions are live in your region, how long they last and what starts next. Get a reminder before the ones you care about.
